@@ -1,0 +1,3 @@
+// Middleware, dentro da engenharia de software possui a ressponsabilidade de ser funções de proteção de arquivos ou rotas, testando se o usuário está executando o mínimo de parâmetros origatórios.
+
+// Exemplo: Quando um usuário preenche um formulário de email e senha, podemos fazer a validação dos parâmetros pelo Middleware sem termos que enviar ao backend e fazer a validação por lá para somente depois mandar a resposta. Usando por exemplo a validação de length na senha para verificar se o usuário digitou a senha ou validarmos se tem @ e .com no campo de email. Assim tornamos o sistema mais rápido e eficiente
