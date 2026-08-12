@@ -6,4 +6,4 @@ const usuarios = [
     { id: 5, nome: "Elena Costa", email: "elena@email.com", senha: "elena654" }
 ];
 
-module.exports = users;
+module.exports = usuarios;
