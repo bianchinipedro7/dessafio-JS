@@ -1,0 +1,10 @@
+{
+  "name": "versao-03-poo",
+  "version": "1.0.0",
+  "description": "Reimplementacao do desafio com Programacao Orientada a Objetos: classes, encapsulamento e responsabilidades separadas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC"
+}
